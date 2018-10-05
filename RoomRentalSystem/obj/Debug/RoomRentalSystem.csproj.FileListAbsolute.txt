@@ -1,0 +1,60 @@
+c:\users\candy\documents\visual studio 2012\Projects\RoomRentalSystem\RoomRentalSystem\bin\Debug\RoomRentalSystem.exe.config
+c:\users\candy\documents\visual studio 2012\Projects\RoomRentalSystem\RoomRentalSystem\bin\Debug\RoomRentalSystem.exe
+c:\users\candy\documents\visual studio 2012\Projects\RoomRentalSystem\RoomRentalSystem\bin\Debug\RoomRentalSystem.pdb
+c:\users\candy\documents\visual studio 2012\Projects\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.Form1.resources
+c:\users\candy\documents\visual studio 2012\Projects\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.Properties.Resources.resources
+c:\users\candy\documents\visual studio 2012\Projects\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.csproj.GenerateResource.Cache
+c:\users\candy\documents\visual studio 2012\Projects\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.exe
+c:\users\candy\documents\visual studio 2012\Projects\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.pdb
+c:\users\candy\documents\visual studio 2012\Projects\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.csprojResolveAssemblyReference.cache
+c:\users\candy\documents\visual studio 2012\Projects\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.LoginForm.resources
+c:\users\candy\documents\visual studio 2012\Projects\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.MenuForm.resources
+c:\users\candy\documents\visual studio 2012\Projects\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.PaymentForm.resources
+c:\users\candy\documents\visual studio 2012\Projects\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.RentalForm.resources
+c:\users\candy\documents\visual studio 2012\Projects\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.RentalHistory.resources
+c:\users\candy\documents\visual studio 2012\Projects\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.RoomAdd.resources
+c:\users\candy\documents\visual studio 2012\Projects\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.RoomReportForm.resources
+c:\users\candy\documents\visual studio 2012\Projects\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.RoomUpdate.resources
+c:\users\candy\documents\visual studio 2012\Projects\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.VehicleInputForm.resources
+c:\users\candy\documents\visual studio 2012\Projects\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.VehicleViewForm.resources
+c:\users\candy\documents\visual studio 2012\Projects\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.WorkerForm.resources
+c:\users\candy\documents\visual studio 2012\Projects\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.WorkingForm.resources
+c:\users\candy\documents\visual studio 2012\Projects\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.WorkingHistoryForm.resources
+c:\users\candy\documents\visual studio 2012\Projects\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.Customer.resources
+c:\users\candy\documents\visual studio 2012\Projects\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.CustomerViewForm.resources
+C:\Users\Candy\Documents\Visual Studio 2012\Projects\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.About.resources
+C:\Users\Candy\Documents\Visual Studio 2012\Projects\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.PaymentReport.resources
+C:\Users\Candy\Documents\Visual Studio 2012\Projects\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.WorkerView.resources
+C:\Users\Candy\Documents\Visual Studio 2012\Projects\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.SubForms.RentalUpdate.resources
+C:\Users\Candy\Desktop\RoomRentalSystem\RoomRentalSystem\bin\Debug\RoomRentalSystem.exe.config
+C:\Users\Candy\Desktop\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.exe
+C:\Users\Candy\Desktop\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.pdb
+C:\Users\Candy\Desktop\OOAD\RoomRentalSystem\RoomRentalSystem\bin\Debug\RoomRentalSystem.exe.config
+C:\Users\Candy\Desktop\OOAD\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.exe
+C:\Users\Candy\Desktop\OOAD\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.pdb
+C:\Users\Candy\Desktop\OOAD\RoomRentalSystem\RoomRentalSystem\bin\Debug\RoomRentalSystem.exe
+C:\Users\Candy\Desktop\OOAD\RoomRentalSystem\RoomRentalSystem\bin\Debug\RoomRentalSystem.pdb
+C:\Users\Candy\Desktop\OOAD\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.csprojResolveAssemblyReference.cache
+C:\Users\Candy\Desktop\OOAD\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.About.resources
+C:\Users\Candy\Desktop\OOAD\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.Customer.resources
+C:\Users\Candy\Desktop\OOAD\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.CustomerViewForm.resources
+C:\Users\Candy\Desktop\OOAD\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.Form1.resources
+C:\Users\Candy\Desktop\OOAD\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.LoginForm.resources
+C:\Users\Candy\Desktop\OOAD\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.MenuForm.resources
+C:\Users\Candy\Desktop\OOAD\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.PaymentForm.resources
+C:\Users\Candy\Desktop\OOAD\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.PaymentReport.resources
+C:\Users\Candy\Desktop\OOAD\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.Properties.Resources.resources
+C:\Users\Candy\Desktop\OOAD\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.RentalForm.resources
+C:\Users\Candy\Desktop\OOAD\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.RentalHistory.resources
+C:\Users\Candy\Desktop\OOAD\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.SubForms.RentalUpdate.resources
+C:\Users\Candy\Desktop\OOAD\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.RoomAdd.resources
+C:\Users\Candy\Desktop\OOAD\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.RoomReportForm.resources
+C:\Users\Candy\Desktop\OOAD\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.RoomUpdate.resources
+C:\Users\Candy\Desktop\OOAD\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.VehicleInputForm.resources
+C:\Users\Candy\Desktop\OOAD\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.VehicleViewForm.resources
+C:\Users\Candy\Desktop\OOAD\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.WorkerForm.resources
+C:\Users\Candy\Desktop\OOAD\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.WorkerView.resources
+C:\Users\Candy\Desktop\OOAD\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.WorkingForm.resources
+C:\Users\Candy\Desktop\OOAD\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.WorkingHistoryForm.resources
+C:\Users\Candy\Desktop\OOAD\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.csproj.GenerateResource.Cache
+C:\Users\Candy\Desktop\OOAD\RoomRentalSystem\RoomRentalSystem\obj\Debug\RoomRentalSystem.SubForms.WorkingUpdate.resources
